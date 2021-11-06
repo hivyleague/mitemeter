@@ -1,6 +1,6 @@
-## Mitemeter
+# Mitemeter
 
-The mitemeter is a simple device to simply and efficiently perform varroa mite counts in honeybee colonies.
+The mitemeter is a simple device to simply and efficiently perform varroa mite counts in honeybee colonies. More about it on [our website!](https://hivyleague.com).
 
 
 ### Capturing bee samples with a vacuum
