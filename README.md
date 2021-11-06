@@ -5,6 +5,9 @@ The mitemeter is a simple device to simply and efficiently perform varroa mite c
 
 ### Capturing bee samples with a vacuum
 
+
+![The vacuum adapter assembled](/img/vacuum_ryobi.png)
+
 The first step when counting mites is to capture a sample of live bees. We suggest using a handheld vacuum and this repository provides models for a 3d-printed adapter to the popular Ryobi hand vac R18HV-0.
 
 The adapter is made of 4 components, which each should be 3d-printable in one shot with a FDM machine:
