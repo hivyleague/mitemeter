@@ -1,10 +1,9 @@
 # Mitemeter
 
-The mitemeter is a simple device to simply and efficiently perform varroa mite counts in honeybee colonies. More about it on [our website!](https://hivyleague.com).
+The mitemeter is a simple device to simply and efficiently perform varroa mite counts in honeybee colonies (more about it on [our website](https://hivyleague.com)).
 
 
-### Capturing bee samples with a vacuum
-
+## Capturing live bee samples
 
 ![The vacuum adapter assembled](/img/vacuum_ryobi.png)
 
@@ -17,6 +16,12 @@ The adapter is made of 4 components, which each should be 3d-printable in one sh
 * stl/box_attachment.stl: this part is attached to the pipe with a M4 screw and can be glued as well for air tightness
 * stl/clip.stl: you would need 3 of them and they clip ot the box_attachment
 
-### The sample cups
+## The sample cups
 
-We use conical cups with a 3d printed rim that screws into the box attachment
+We use conical cups (OD: 100mm) with a 3d printed rim that screws into the box attachment.
+
+
+
+## The sample cups
+
+For questions or comments, please [get in touch by email](mailto:william@hivyleague.com).
