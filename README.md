@@ -22,6 +22,6 @@ We use conical cups (OD: 100mm) with a 3d printed rim that screws into the box a
 
 
 
-## The sample cups
+## Contact
 
 For questions or comments, please [get in touch by email](mailto:william@hivyleague.com).
