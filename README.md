@@ -18,7 +18,9 @@ The adapter is made of 4 components, which each should be 3d-printable in one sh
 
 ## The sample cups
 
-We use conical cups (OD: 100mm) with a 3d printed rim that screws into the box attachment.
+We use conical cups (OD: 100mm) with a 3d printed rim that screws into
+the box attachment. Bill from Canada contributed an alternative
+adapter tailored to mason jars.
 
 
 
